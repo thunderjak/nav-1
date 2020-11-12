@@ -192,4 +192,4 @@ $(document).on('keypress', function (e) {
   }
 });
 },{}]},{},["epB2"], null)
-//# sourceMappingURL=https://thunderjak.github.io/nav-1/dist/main.2dbdcdd7.js.map
+//# sourceMappingURL=main.2dbdcdd7.js.map
